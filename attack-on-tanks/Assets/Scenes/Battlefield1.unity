@@ -12256,6 +12256,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 550598730}
     m_Modifications:
+    - target: {fileID: 1999581427883357621, guid: fe04e68cc490679428818319e963b3f6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1999581427883357621, guid: fe04e68cc490679428818319e963b3f6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1999581427883357621, guid: fe04e68cc490679428818319e963b3f6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1999581427883357621, guid: fe04e68cc490679428818319e963b3f6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1999581427883357621, guid: fe04e68cc490679428818319e963b3f6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2332924859722511176, guid: fe04e68cc490679428818319e963b3f6, type: 3}
       propertyPath: m_Name
       value: StaticTower (1)
@@ -15299,7 +15319,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1127479231097290107, guid: 8b56afe5d0abef440a0c0ef573f21495, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.43025064
+      value: 0.33
       objectReference: {fileID: 0}
     - target: {fileID: 1127479231097290107, guid: 8b56afe5d0abef440a0c0ef573f21495, type: 3}
       propertyPath: m_LocalPosition.z
