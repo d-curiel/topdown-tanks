@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Bullet
+  - OffRoad
+  - OnRoad
   layers:
   - Default
   - TransparentFX
@@ -11,12 +15,12 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Bullet
+  - Agent
+  - Hittable
+  - ObstacleMovement
+  - Player
+  - Enemy
   - 
   - 
   - 
@@ -40,4 +44,34 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2814239693
+    locked: 0
+  - name: DetailsBottom
+    uniqueID: 2350775359
+    locked: 0
+  - name: Obstacles
+    uniqueID: 4211983435
+    locked: 0
+  - name: Enemies
+    uniqueID: 997881805
+    locked: 0
+  - name: Player
+    uniqueID: 1688483529
+    locked: 0
+  - name: Items
+    uniqueID: 1160610479
+    locked: 0
+  - name: Bullets
+    uniqueID: 991735751
+    locked: 0
+  - name: SpecialEffects
+    uniqueID: 1380666859
+    locked: 0
+  - name: DetailsTop
+    uniqueID: 3647197283
+    locked: 0
+  - name: UI
+    uniqueID: 4241157849
     locked: 0
